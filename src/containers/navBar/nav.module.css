@@ -1,0 +1,25 @@
+.container{
+    padding: 50px 2px 50px 70px;
+    margin: 50px 70px 0px 70px;
+    background-color: rgb(255, 255, 255);
+}
+
+.menu ul{
+    font-size: 20px;
+    padding: 0;
+}
+
+.menu li{
+    display: inline;
+    margin: 5px;
+}
+.item{
+    vertical-align: inherit;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+a {color:#3a7057;}         /* Unvisited link  */
+a:visited {color:#013f01;} /* Visited link    */
+a:hover {color:#7c0606;}   /* Mouse over link */
+a:active {color:#070761;} 

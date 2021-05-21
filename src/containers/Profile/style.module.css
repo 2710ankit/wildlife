@@ -1,0 +1,22 @@
+.container{
+    padding: 0 4px;
+    text-align: center;
+    font-family: lato,Arial,sans-serif;
+    font-weight: 700;
+    line-height: 15px;
+    width: 250px;
+    margin: 10px;
+    border: 1px solid rgba(150, 248, 202, 0.26);
+    border-radius: 8px;
+}
+
+.container img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 5px;
+}
+
+.container span{
+    font-size: large;
+}

@@ -1,0 +1,51 @@
+.container{
+    width: 100%;
+}
+
+.imgDiv{
+    position: relative;
+    margin-bottom: 2%;
+    
+}
+
+.image{
+    width: 100%;
+    z-index: 0;
+    vertical-align: middle;
+}
+
+.div1{
+    display: flex;
+    flex-direction: column;
+}
+
+.div11{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.div12{
+    width: 30%;
+    padding: 5px 0px 0px 5px;
+    font-size: x-large;
+    color: rgb(8, 8, 99);
+    margin-bottom: 5px;
+}
+
+.div13{
+    width: 45%;
+    padding: 5px 0px 0px 0px;
+}
+
+.div2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.div21{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
